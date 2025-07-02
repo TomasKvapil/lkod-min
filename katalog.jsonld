@@ -18,7 +18,7 @@
     "e-mail": "mailto:gis@ostrava.cz"
   },
   "datová_sada": [
-    "https://raw.githubusercontent.com/TomasKvapil/lkod-min/refs/heads/main/datové-sady/Cenová mapa č. 25.jsonld"
+    "https://raw.githubusercontent.com/TomasKvapil/lkod-min/refs/heads/main/datové-sady/test.jsonld"
     
   ]
 }
