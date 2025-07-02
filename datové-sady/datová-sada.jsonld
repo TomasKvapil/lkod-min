@@ -3,7 +3,7 @@
   "iri": "https://raw.githubusercontent.com/datagov-cz/lkod-min/main/datové-sady/datová-sada.jsonld",
   "typ": "Datová sada",
   "název": {
-    "cs": "První datová sadaa",
+    "cs": "První datová sada",
     "en": "First dataset"
   },
   "popis": {
