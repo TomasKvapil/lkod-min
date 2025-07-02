@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/TomasKvapil/lkod-min/refs/heads/main/katalog.jsonld",
+  "iri": "https://mapy.ostrava.cz/opendata/lkod/katalog.jsonld",
   "typ": "Katalog",
   "domovská_stránka": "https://mapy.ostrava.cz/data/otevrena-data/",
   "název": {
@@ -18,7 +18,7 @@
     "e-mail": "mailto:gis@ostrava.cz"
   },
   "datová_sada": [
-    "https://github.com/TomasKvapil/lkod-min/main/datové-sady/test.jsonld"
+    "https://mapy.ostrava.cz/opendata/lkod/datove-sady/test.jsonld"
     
   ]
 }

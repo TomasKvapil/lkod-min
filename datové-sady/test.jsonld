@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://github.com/TomasKvapil/lkod-min/main/datové-sady/test.jsonld",
+  "iri": "https://mapy.ostrava.cz/opendata/lkod/datove-sady/test.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "První datová sada",
